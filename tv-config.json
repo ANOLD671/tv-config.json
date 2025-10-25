@@ -1,0 +1,32 @@
+{
+  "channels": [
+    {
+      "name": "Live football 1",
+      "url": "https://pww1a3caoxythv5bbtkvaipjgphu1vpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match5&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
+    },
+    {
+      "name": "Live football 2", 
+      "url": "https://pww1a3caoxythv5bbtkvaipjgphu1vpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match1&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
+    },
+    {
+      "name": "Live football 3",
+      "url": "https://yygyyh.koooooralive.com/albaplayer/sports-b5"
+    },
+    {
+      "name": "National Geographic",
+      "url": "https://www.nationalgeographic.com"
+    },
+    {
+      "name": "Discovery Channel",
+      "url": "https://www.discovery.com"
+    },
+    {
+      "name": "BBC NEWS",
+      "url": "https://tv.garden/8e0d67bb-0399-4c14-b669-594b83f26c53"
+    },
+    {
+      "name": "россия 1",
+      "url": "https://tv.garden/ru/C8FO9UkyqQWvnx"
+    }
+  ]
+}
