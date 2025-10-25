@@ -29,9 +29,8 @@
         "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/VALENCIA.png"
       },
       "stream_url": "https://pww1a3caoxythv5bbtkvaipjgphu1vpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match3&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
-    },
-
-{
+    }
+  ],
   "channels": [
     {
       "name": "Live football 1",
@@ -53,13 +52,8 @@
       "name": "BBC NEWS",
       "url": "https://tv.garden/8e0d67bb-8399-4c14-d669-594b83f26c53"
     }
-  
-    
   ]
 }
-
-
-
 
 
 
