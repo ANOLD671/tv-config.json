@@ -26,7 +26,7 @@
       },
       "team2": {
         "name": "BARCELONA",
-        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/BARCELONA.png"
+        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/BARCA.png"
       },
       "stream_url": "https://pww1a3caoxythv5bbtkvaipjgphu1vpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match3&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
     }
@@ -54,6 +54,7 @@
     }
   ]
 }
+
 
 
 
