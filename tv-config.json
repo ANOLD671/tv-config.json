@@ -6,8 +6,8 @@
       "league": "PREMIER LEAGUE", 
       "score": "",
       "team1": {
-        "name": "LIVERPOOL",
-        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/LIVERPOOL.png"
+        "name": "MANCHESTER CITY",
+        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/MANCHESTER CITY.png"
       },
       "team2": {
         "name": "BREANTFORD",
@@ -54,6 +54,7 @@
     }
   ]
 }
+
 
 
 
