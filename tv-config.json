@@ -15,8 +15,23 @@
       },
       "stream_url": "https://pww1a3caoxythv5bbtkvaipjgphu1vpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match1&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
     },
-    {
+     {
       "id": 2,
+      "status": "running",
+      "league": "PREMIER LEAGUE", 
+      "score": "",
+      "team1": {
+        "name": "CRYSTAL PALACE",
+        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/MANCHESTER CITY.png"
+      },
+      "team2": {
+        "name": "ARSENAL",
+        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/ASTONVILLA.png"
+      },
+      "stream_url": "https://pww1a3caoxythv5bbtkvaipjgphu1vpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match1&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
+    },
+    {
+      "id": 3,
       "status": "running", 
       "league": "Spanish League",
       "score": "",
@@ -54,6 +69,7 @@
     }
   ]
 }
+
 
 
 
