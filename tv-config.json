@@ -13,7 +13,7 @@
         "name": "ASTON VILLA",
         "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/ASTONVILLA.png"
       },
-      "stream_url": "https://fram2.4chr.online/albaplayer/starz/"
+      "stream_url": "https://pww1a3caoxythv5bbtkvaipjgphu1vpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match3&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
     },
      {
       "id": 2,
@@ -28,7 +28,7 @@
         "name": "ARSENAL",
         "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/ARSENAL.png"
       },
-      "stream_url": "https://fram2.4chr.online/albaplayer/starz/"
+      "stream_url": "https://pww1a3caoxythv5bbtkvaipjgphu1vpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match2&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
     },
     {
       "id": 3,
@@ -60,8 +60,8 @@
       "url": "https://www.plus.fifa.com/en/?gl=de"
     },
     {
-      "name": "Discovery Channel",
-      "url": "https://www.discovery.com"
+      "name": "Live football 3",
+      "url": "https://pww1a3caoxythv5bbtkvaipjgphu1vpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match1&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
     }, 
     {
       "name": "MATCH TV",
@@ -74,6 +74,7 @@
     }
   ]
 }
+
 
 
 
