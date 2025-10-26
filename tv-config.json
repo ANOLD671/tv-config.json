@@ -43,7 +43,7 @@
         "name": "BARCELONA",
         "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/BARCA.png"
       },
-      "stream_url": "https://www.youtube.com/embed/Qfzsn1olOZc/"
+      "stream_url": "https://pww1a3caoxythv5bbtkvaipjgphu1vpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match1&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
     }
   ],
   "channels": [
@@ -53,7 +53,7 @@
     },
     {
       "name": "Live football 2",
-      "url": "https://pwwla3caoxythv5bbtkvaipjgphulvpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match1&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
+      "url": "https://pww1a3caoxythv5bbtkvaipjgphu1vpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match5&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
     },
     {
       "name": "FIFA PLUS",
@@ -74,6 +74,7 @@
     }
   ]
 }
+
 
 
 
