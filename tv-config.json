@@ -49,7 +49,7 @@
   "channels": [
     {
       "name": "Live football 1",
-      "url": "https://www.youtube.com/embed/x3E6QcqmCBw"
+      "url": "https://fc6.barca.ink/albaplayer/bein-2/"
     },
     {
       "name": "Live football 2",
@@ -74,6 +74,7 @@
     }
   ]
 }
+
 
 
 
