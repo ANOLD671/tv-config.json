@@ -62,13 +62,19 @@
     {
       "name": "Discovery Channel",
       "url": "https://www.discovery.com"
+    }, 
+    {
+      "name": "FIFA PLUS",
+      "url": "https://www.plus.fifa.com/en/?gl=de"
     },
+    
     {
       "name": "BBC NEWS",
       "url": "https://tv.garden/8e0d67bb-8399-4c14-d669-594b83f26c53"
     }
   ]
 }
+
 
 
 
