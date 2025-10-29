@@ -21,12 +21,12 @@
       "league": "PREMIER LEAGUE", 
       "score": "",
       "team1": {
-        "name": "EVERTON",
-        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/EVERTON.png"
+        "name": "ARSENAL",
+        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/ARSENAL.png"
       },
       "team2": {
-        "name": "SPURS",
-        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/SPURS.png"
+        "name": "BURNLEY",
+        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/BURNLEY.png"
       },
       "stream_url": "https://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg0MjY4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PThzYm8mc2twdE51bT0zcmQ%3D&_pb=1"
     },
@@ -74,6 +74,7 @@
     }
   ]
 }
+
 
 
 
