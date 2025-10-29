@@ -11,7 +11,7 @@
       },
       "team2": {
         "name": "NOTTINGHAM FOREST",
-        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/ASTONVILLA.png"
+        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/FOREST.png"
       },
       "stream_url": "https://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg0MjY4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PThzYm8mc2twdE51bT0zcmQ%3D&_pb=1"
     },
@@ -74,6 +74,7 @@
     }
   ]
 }
+
 
 
 
