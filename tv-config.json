@@ -36,11 +36,11 @@
       "league": "Spanish League",
       "score": "",
       "team1": {
-        "name": "OSASUNA",
-        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/OSASUNA.png"
+        "name": "ATLETICO MADRID",
+        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/ATLETICO.png"
       },
       "team2": {
-        "name": "CELTA VIGO",
+        "name": "SEVILLA",
         "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/CELTA DE VIGO.png"
       },
       "stream_url": "https://ppdd07.playerktidfintkd.shop/live.html?_pa=bWF0Y2hJZD0yODg0MjY4Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PThzYm8mc2twdE51bT0zcmQ%3D&_pb=1"
@@ -74,6 +74,7 @@
     }
   ]
 }
+
 
 
 
