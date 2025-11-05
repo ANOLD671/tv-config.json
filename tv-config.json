@@ -1,0 +1,56 @@
+{
+  "matches": [
+    {
+      "id": 1,
+      "status": "running",
+      "league": "PREMIER LEAGUE", 
+      "score": "",
+      "team1": {
+        "name": "LIVERPOOL",
+        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/LIVERPOOL.png"
+      },
+      "team2": {
+        "name": "BREANTFORD",
+        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/BRETFORD.png"
+      },
+      "stream_url": "https://pww1a3caoxythv5bbtkvaipjgphu1vpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match1&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
+    },
+    {
+      "id": 2,
+      "status": "running", 
+      "league": "Spanish League",
+      "score": "",
+      "team1": {
+        "name": "Villarreal",
+        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/Villarreal CF Logo.png"
+      },
+      "team2": {
+        "name": "Valencia",
+        "logo": "https://raw.githubusercontent.com/ANOLD671/tv-config.json/main/logos/VALENCIA.png"
+      },
+      "stream_url": "https://pww1a3caoxythv5bbtkvaipjgphu1vpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match3&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
+    }
+  ],
+  "channels": [
+    {
+      "name": "Live football 1",
+      "url": "https://pwwla3caoxythv5bbtkvaipjgphulvpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match1&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
+    },
+    {
+      "name": "Live football 2",
+      "url": "https://pwwla3caoxythv5bbtkvaipjgphulvpvbhon4kjuh6vmqvrrznohu2s9jqcfmwy.sokii.shop/player.php?match=match1&key=c0ae1ada6eebd7e6cc5b88b1d2b71547"
+    },
+    {
+      "name": "National Geographic",
+      "url": "https://www.nationalgeographic.com"
+    },
+    {
+      "name": "Discovery Channel",
+      "url": "https://www.discovery.com"
+    },
+    {
+      "name": "BBC NEWS",
+      "url": "https://tv.garden/8e0d67bb-8399-4c14-d669-594b83f26c53"
+    }
+  ]
+}
